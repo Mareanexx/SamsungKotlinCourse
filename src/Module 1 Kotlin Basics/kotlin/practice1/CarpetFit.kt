@@ -17,3 +17,4 @@ fun main() {
     val (a, b, m, n) = readln().split(" ").map { it.toFloat() }
     println(carpetFitsTheFloor(a, b, m, n))
 }
+
